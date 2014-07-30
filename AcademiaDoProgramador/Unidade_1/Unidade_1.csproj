@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercícios Complementares\_01_TrianguloAsterisco.cs" />
     <Compile Include="Exercícios Fixação\_04_ImprimeNumeros1.cs" />
     <Compile Include="Exercícios Fixação\_05_ImprimeNumeros2.cs" />
     <Compile Include="Exercícios Fixação\PrimeiroPrograma.cs" />
