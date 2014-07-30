@@ -7,11 +7,11 @@ namespace Unidade_1.Exercícios_Complementares
         public static void Main1(string[] args)
         {
             // Crie umprograma que imprima na tela um triângulo de “*”.
-            Console.WriteLine("*");
-            Console.WriteLine("**");
-            Console.WriteLine("***");
-            Console.WriteLine("****");
-            Console.WriteLine("*****");
+            Console.WriteLine("    *   ");
+            Console.WriteLine("   ***  ");
+            Console.WriteLine("  *****  ");
+            Console.WriteLine(" ******* ");
+            Console.WriteLine("*********");
             Console.ReadKey();
         }
     }

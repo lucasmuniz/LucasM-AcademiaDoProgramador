@@ -9,11 +9,11 @@ namespace Unidade_1.Exercícios_Complementares
             // Crie um programa que imprima na tela vários triângulos de “*”.
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine("*");
-                Console.WriteLine("**");
-                Console.WriteLine("***");
-                Console.WriteLine("****");
-                Console.WriteLine("*****");
+                Console.WriteLine("    *   ");
+                Console.WriteLine("   ***  ");
+                Console.WriteLine("  *****  ");
+                Console.WriteLine(" ******* ");
+                Console.WriteLine("*********");
             }
             Console.ReadKey();
         }
