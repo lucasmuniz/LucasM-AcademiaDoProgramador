@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercícios Fixação\_04_ImprimeNumeros1.cs" />
+    <Compile Include="Exercícios Fixação\_05_ImprimeNumeros2.cs" />
     <Compile Include="Exercícios Fixação\PrimeiroPrograma.cs" />
+    <Compile Include="Exercícios Fixação\_06_ImparesPares.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
