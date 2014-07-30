@@ -47,7 +47,7 @@
     <Compile Include="Exercícios Complementares\_04_MenuDeInteracao.cs" />
     <Compile Include="Exercícios Fixação\_04_ImprimeNumeros1.cs" />
     <Compile Include="Exercícios Fixação\_05_ImprimeNumeros2.cs" />
-    <Compile Include="Exercícios Fixação\PrimeiroPrograma.cs" />
+    <Compile Include="Exercícios Fixação\_PrimeiroPrograma.cs" />
     <Compile Include="Exercícios Fixação\_06_ImparesPares.cs" />
     <Compile Include="Exercícios Fixação\_07_ImprimePI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -2,7 +2,7 @@
 
 namespace Unidade_1.Exercícios_Fixação
 {
-    internal class PrimeiroPrograma
+    internal class _PrimeiroPrograma
     {
         private static void Main01(string[] args)
         {
