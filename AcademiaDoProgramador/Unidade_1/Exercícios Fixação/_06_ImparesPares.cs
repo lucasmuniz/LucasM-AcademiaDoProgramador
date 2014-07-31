@@ -20,7 +20,6 @@ namespace Unidade_1.Exercícios_Fixação
                 {
                     Console.WriteLine("**");
                 }
-               
             }
             Console.ReadKey();
         }
