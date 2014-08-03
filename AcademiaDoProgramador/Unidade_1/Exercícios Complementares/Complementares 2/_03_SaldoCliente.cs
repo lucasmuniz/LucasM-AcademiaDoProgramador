@@ -4,7 +4,7 @@ namespace Unidade_1.Exercícios_Complementares.Complementares_2
 {
     internal class _03_SaldoCliente
     {
-        public static void Main(string[] args)
+        public static void Main3(string[] args)
         {
             /*3)	Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. Após, calcular e escrever
              * o saldo atual (saldo atual = saldo - débito + crédito). Também testar se saldo atual for maior ou igual a
