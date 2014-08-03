@@ -49,6 +49,7 @@
     <Compile Include="Exercícios Complementares\Complementares 2\_02_JornadaTrabalho.cs" />
     <Compile Include="Exercícios Complementares\Complementares 2\_03_SaldoCliente.cs" />
     <Compile Include="Exercícios Complementares\Complementares 2\_04_EstoqueProdutos.cs" />
+    <Compile Include="Exercícios Complementares\Complementares 2\_05_PrecoCombustivel.cs" />
     <Compile Include="Exercícios Fixação\_04_ImprimeNumeros1.cs" />
     <Compile Include="Exercícios Fixação\_05_ImprimeNumeros2.cs" />
     <Compile Include="Exercícios Fixação\_PrimeiroPrograma.cs" />
