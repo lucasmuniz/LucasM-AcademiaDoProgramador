@@ -41,14 +41,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\CartaoDeCredito.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\Cliente.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaCartaoDeCredito.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaCliente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Exercícios Fixação\Orientacao_a_Objetos\Unidade 2 - Orientação a Objetos.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Exercícios Complementares\" />
-    <Folder Include="Exercícios Fixação\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Exercícios Fixação\Orientacao_a_Objetos\Usuario Senha.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
