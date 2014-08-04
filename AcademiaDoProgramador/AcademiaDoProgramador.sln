@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade_1", "Unidade_1\Unidade_1.csproj", "{9B28D525-FB6C-46FE-A623-B28523FF6C4D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade_1 - LogicaDeProgramacao", "Unidade_1\Unidade_1 - LogicaDeProgramacao.csproj", "{9B28D525-FB6C-46FE-A623-B28523FF6C4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade_2", "Unidade_2\Unidade_2.csproj", "{F64B5789-F4F1-4F1F-8BFD-37D58AFB8CA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade_2 - POO", "Unidade_2\Unidade_2 - POO.csproj", "{F64B5789-F4F1-4F1F-8BFD-37D58AFB8CA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
