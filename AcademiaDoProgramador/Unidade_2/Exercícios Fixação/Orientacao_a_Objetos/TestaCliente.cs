@@ -4,7 +4,7 @@ namespace Unidade_2.Exercícios_Fixação.Orientacao_a_Objetos
 {
     internal class TestaCliente
     {
-        private static void Main()
+        private static void Main1(string[]args)
         {
             Cliente c1 = new Cliente();
             c1.nome = "Lucas Muniz";

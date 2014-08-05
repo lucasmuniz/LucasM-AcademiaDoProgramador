@@ -1,3 +1,0 @@
-lucas.goedert
-P@ssw0rd
-link: https://tfs.nddigital.com.br/tfs/AcademyCollection/TPAcademiaProgramador

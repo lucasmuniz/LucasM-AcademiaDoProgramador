@@ -41,21 +41,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exercícios Complementares\Aluno.cs" />
+    <Compile Include="Exercícios Complementares\Funcionario.cs" />
+    <Compile Include="Exercícios Complementares\TestaAluno.cs" />
+    <Compile Include="Exercícios Complementares\TestaFuncionario.cs" />
+    <Compile Include="Exercícios Complementares\TestaTurma.cs" />
+    <Compile Include="Exercícios Complementares\Turma.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\Agencia.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\CartaoDeCredito.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\Cliente.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\ContaEAgencia.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaContaEAgencia.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaCartaoDeCredito.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaCliente.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaConta.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaValorPadrao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Exercícios Fixação\Orientacao_a_Objetos\Unidade 2 - Orientação a Objetos.pdf" />
+    <None Include="Materiais\Unidade 2 - Orientação a Objetos.pdf" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Exercícios Complementares\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Exercícios Fixação\Orientacao_a_Objetos\Usuario Senha.txt" />
+    <Content Include="Materiais\Usuário_e_Senha.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
