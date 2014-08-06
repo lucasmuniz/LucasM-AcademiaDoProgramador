@@ -3,7 +3,7 @@ namespace Unidade_2.Exercícios_Complementares
 {
     internal class TestaTurma
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             Turma t1 = new Turma();
             t1.periodo = "Noturno";
