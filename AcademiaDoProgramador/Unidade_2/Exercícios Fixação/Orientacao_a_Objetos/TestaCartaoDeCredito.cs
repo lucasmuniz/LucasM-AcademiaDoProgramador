@@ -20,14 +20,14 @@ namespace Unidade_2.Exercícios_Fixação.Orientacao_a_Objetos
 
             cdc1.cliente = c;
 
-            Console.WriteLine(cdc1.numero);
-            Console.WriteLine(cdc1.dataDeValidade);
+            Console.WriteLine("Número do cartão: {0}",cdc1.numero);
+            Console.WriteLine("Data de validade: {0}",cdc1.dataDeValidade);
 
-            Console.WriteLine(cdc2.numero);
-            Console.WriteLine(cdc2.dataDeValidade);
+            Console.WriteLine("Número do cartão: {0}",cdc2.numero);
+            Console.WriteLine("Data de validade: {0}",cdc2.dataDeValidade);
 
-            Console.WriteLine(cdc1.cliente.nome);
-            Console.WriteLine(cdc1.cliente.codigo);
+            Console.WriteLine("Nome do cliente: {0}",cdc1.cliente.nome);
+            Console.WriteLine("Código do cliente: {0}",cdc1.cliente.codigo);
             Console.ReadKey();
         }
     }

@@ -51,10 +51,12 @@
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\CartaoDeCredito.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\Cliente.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\ContaEAgencia.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\Gerente.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaContaEAgencia.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaCartaoDeCredito.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaCliente.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaConta.cs" />
+    <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaGerente.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\TestaValorPadrao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
