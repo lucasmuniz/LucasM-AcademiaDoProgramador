@@ -8,17 +8,23 @@
         public Agencia agencia;
         public double limite = 100;
 
-        public static void Mai1n(string[] args)
+        public static void Main(string[] args)
         {
             ContaEAgencia c = new ContaEAgencia();
             c.Deposita(100);
-            
+            double saldoDisponivel = c.ConsultaSaldoDisponivel();
+            System.Console.WriteLine(saldoDisponivel);
+            System.Console.ReadKey();
         }
-     
+
         private void Deposita(double valor)
         {
             this.saldo += valor;
         }
-     
+
+        public double ConsultaSaldoDisponivel()
+        {
+            return this.saldo + this.limite;
+        }
     }
 }
