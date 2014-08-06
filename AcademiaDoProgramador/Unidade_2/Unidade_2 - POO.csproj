@@ -41,12 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exercícios Complementares\Aluno.cs" />
-    <Compile Include="Exercícios Complementares\Funcionario.cs" />
-    <Compile Include="Exercícios Complementares\TestaAluno.cs" />
-    <Compile Include="Exercícios Complementares\TestaFuncionario.cs" />
-    <Compile Include="Exercícios Complementares\TestaTurma.cs" />
-    <Compile Include="Exercícios Complementares\Turma.cs" />
+    <Compile Include="Exercícios Complementares 1\Aluno.cs" />
+    <Compile Include="Exercícios Complementares 1\Funcionario.cs" />
+    <Compile Include="Exercícios Complementares 1\TestaAluno.cs" />
+    <Compile Include="Exercícios Complementares 1\TestaFuncionario.cs" />
+    <Compile Include="Exercícios Complementares 1\TestaTurma.cs" />
+    <Compile Include="Exercícios Complementares 1\Turma.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\Agencia.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\CartaoDeCredito.cs" />
     <Compile Include="Exercícios Fixação\Orientacao_a_Objetos\Cliente.cs" />

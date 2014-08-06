@@ -8,7 +8,7 @@
         public Agencia agencia;
         public double limite = 100;
 
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             ContaEAgencia c = new ContaEAgencia();
             c.Deposita(100);
