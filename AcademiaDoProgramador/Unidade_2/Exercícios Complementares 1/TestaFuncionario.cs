@@ -20,10 +20,10 @@ namespace Unidade_2.Exercícios_Complementares
             f2.cargo = "Vendedor";
             f2.salario = 1890;
 
-            Console.WriteLine(f1.primeiroNome);
+            Console.WriteLine("Nome: {0}",f1.primeiroNome);
             Console.WriteLine(f1.segundoNome);
-            Console.WriteLine(f1.cargo);
-            Console.WriteLine(f1.salario);
+            Console.WriteLine("Cargo: {0}",f1.cargo);
+            Console.WriteLine("Salário: {0}",f1.salario);
 
             Console.WriteLine(f2.primeiroNome);
             Console.WriteLine(f2.segundoNome);

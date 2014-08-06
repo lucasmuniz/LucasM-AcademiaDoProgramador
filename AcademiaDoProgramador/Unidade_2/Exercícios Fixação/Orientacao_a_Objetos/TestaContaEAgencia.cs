@@ -19,10 +19,10 @@ namespace Unidade_2.Exercícios_Fixação.Orientacao_a_Objetos
 
             c1.agencia = a1;
 
-            Console.WriteLine(c1.numero);
-            Console.WriteLine(c1.saldo);
-            Console.WriteLine(c1.limite);
-            Console.WriteLine(c1.agencia.numero);
+            Console.WriteLine("Numero: {0}",c1.numero);
+            Console.WriteLine("Saldo: {0}",c1.saldo);
+            Console.WriteLine("Saldo: {0}",c1.limite);
+            Console.WriteLine("Agência numero {0}",c1.agencia.numero);
 
             
 
